@@ -29,7 +29,7 @@ arguments:
   -out OUTPUT_FILE      output file for nucleotide multiple alignment ````
 ```
 
-#Example
+# Example
 For trying this script, a example dataset of Anelloviruses ORF1 can be found in the Example directory within this repository. 
 The sequences were obtained from https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.1002963
 
