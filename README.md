@@ -45,6 +45,6 @@ Transform your protein alignment in a nucleotide alignment with the following co
 python ../backTranslate.py -nt Cosentino_2022_ORFsnt_Anello.fas -ali aln_aa_Cosentino_2022_Anello.fasta -out aln_nt_aa_Cosentino_2022_Anello.fasta
 ```
 
-#Citing
+# Citing
 If this script was helpfull to you, consider citing it. :)
 
