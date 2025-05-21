@@ -3,7 +3,8 @@ A open access python script to generated an nucleotide alignment, having as inpu
 
 # Installation
 
-This script depends of a local installation of Biophyton. Informations for it can be found within https://biopython.org/wiki/Download
+This script depends of a local installation of Biophyton. Informations for it can be found within https://biopython.org/wiki/Download.
+
 Acess your terminal and activate conda
 
 ```bash
