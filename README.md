@@ -2,7 +2,10 @@
 A open access python script to generated an nucleotide alignment, having as input a aminoacid aligment originated from a nucleotide fasta. Ideal for dealing with large datasets.
 
 # Installation
+
+This script depends of a local installation of Biophyton. Informations for it can be found within https://biopython.org/wiki/Download
 Acess your terminal and activate conda
+
 ```bash
 conda activate
 ```
